@@ -1,0 +1,5 @@
+pandas
+wikipedia
+pymorphy3
+scikit-learn
+nltk
