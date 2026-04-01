@@ -24,8 +24,8 @@ $$similarity(A, B) = \frac{A \cdot B}{||A|| \times ||B||}$$
 1. **Клонируйте репозиторий:**
    ```bash
    git clone <ссылка_на_ваш_репозиторий>
-   cd nlp2
-
+   cd <название_папки_проекта>
+   
 2. **Установите зависимости:**
     ```bash
     pip install -r requirements.txt
